@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NoahLTU
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning AMXMODX(amxx), php, and some bash basics.
+- 📫 How to reach me? You can reach me via github.
